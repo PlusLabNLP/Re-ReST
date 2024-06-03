@@ -2,7 +2,6 @@
 ```
 conda create -n rerest python=3.9
 conda activate rerest
-git clone https://github.com/PlusLabNLP/Re-ReST.git
 pip install -r requirements.txt
 ```
 
@@ -68,5 +67,5 @@ python lora_generation.py \
 
 
 ## References
-Our code is modified from [anchen1011/FireAct](https://raw.githubusercontent.com/anchen1011/FireAct), whose generation code is based on [ysymyth/ReAct](https://github.com/ysymyth/ReAct) and LoRA training code is based on [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora). Our reflection code is based on [noahshinn/reflexion](https://github.com/noahshinn/reflexion).
+Our code is modified from [anchen1011/FireAct](https://raw.githubusercontent.com/anchen1011/FireAct) under [the MIT license](https://github.com/PlusLabNLP/Re-ReST/blob/main/hotpotqa/LICENSE_FireAct), whose generation code is based on [ysymyth/ReAct](https://github.com/ysymyth/ReAct) and LoRA training code is based on [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora). Our reflection code is based on [noahshinn/reflexion](https://github.com/noahshinn/reflexion).
 
