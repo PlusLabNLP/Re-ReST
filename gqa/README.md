@@ -1,6 +1,6 @@
 ## Setup
 
-Our experiments on GQA is based on [ iperGPT: Visual Inference via Python Execution for Reasoning](https://viper.cs.columbia.edu/).
+Our experiments on GQA is based on [ViperGPT: Visual Inference via Python Execution for Reasoning](https://viper.cs.columbia.edu/).
 Please setup the environment, dataset and dependencies according to [their guidelines](https://github.com/cvlab-columbia/viper/).
 
 ## Zero-Shot Inference
