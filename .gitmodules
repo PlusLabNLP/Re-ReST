@@ -1,0 +1,3 @@
+[submodule "gqa/viper"]
+	path = gqa/viper
+	url = git@github.com:cvlab-columbia/viper.git
