@@ -12,7 +12,7 @@ And the code and execution results will be stored into a csv file.
 
 Reflector:
 ```
-python zeroshot_reflect_on_train.py YOUR_CSV_FILE_FROM_VIPER
+python zeroshot_reflect_on_train.py YOUR_CSV_FILE_FROM_VIPER --gqa-data-path GQA_DATA_PATH
 ```
 
 ## Training
