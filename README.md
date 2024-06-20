@@ -3,6 +3,7 @@
 ## Overview
 
 - HotpotQA code in `hotpotqa`
+- GQA code in `gqa`
 
 ## Citation
 ```
